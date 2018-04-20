@@ -1,0 +1,19 @@
+{
+  "name": "react-native-open-notification",
+  "version": "0.0.0",
+  "description": "Open App notification settings",
+  "author": {
+    "name": "Wang Riwu",
+    "email": "riwu0730@gmail.com"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "homepage": "https://github.com/riwu/react-native-open-notification",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/riwu/react-native-open-notification.git"
+  },
+  "bugs": {
+    "url": "https://github.com/riwu/react-native-open-notification/issues"
+  }
+}
