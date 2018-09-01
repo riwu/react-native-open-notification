@@ -1,10 +1,10 @@
 {
   "name": "react-native-open-notification",
-  "version": "0.0.0",
+  "version": "0.1.1",
   "description": "Open App notification settings",
   "author": {
     "name": "Wang Riwu",
-    "email": "riwu0730@gmail.com"
+    "email": "me@wangriwu.com"
   },
   "license": "MIT",
   "main": "index.js",
