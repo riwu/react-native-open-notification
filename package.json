@@ -1,6 +1,6 @@
 {
   "name": "react-native-open-notification",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Open App notification settings",
   "author": {
     "name": "Wang Riwu",
@@ -15,5 +15,12 @@
   },
   "bugs": {
     "url": "https://github.com/riwu/react-native-open-notification/issues"
-  }
+  },
+  "keywords": [
+    "react-native",
+    "notification",
+    "settings",
+    "ios",
+    "android"
+  ]
 }
