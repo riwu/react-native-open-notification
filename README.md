@@ -20,7 +20,7 @@ This module opens the app settings screen for iOS:
 ## Installation
 
 1. `npm install react-native-open-notification`
-2. `react-native link react-native-open-notification`
+2. `react-native link react-native-open-notification` (only for React Native version < 0.60)
 
 ## Usage
 
